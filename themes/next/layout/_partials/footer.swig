@@ -27,6 +27,7 @@
 #}</div>
 {% endif %}
 
+
 {% if theme.footer.powered and theme.footer.theme.enable %}
   <span class="post-meta-divider">|</span>
 {% endif %}
