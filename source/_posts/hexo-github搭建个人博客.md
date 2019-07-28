@@ -1,4 +1,5 @@
 ---
+
 title: hexo-github搭建个人博客
 date: 2019-07-26 17:15:26
 tags: [hexo,站点配置]
@@ -138,6 +139,13 @@ hexo deploy
    ```C
    npm uninstall hexo-renderer-marked --save
    npm install hexo-renderer-kramed --save
+   ```
+
+   再安装一个自动部署MathJax的hexo插件。安装方式也很简单，在博客文件夹下执行：
+
+   ```c
+   npm install hexo-math --save
+   hexo math install
    ```
 
 2. 修改配置文件
