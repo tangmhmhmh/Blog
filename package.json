@@ -6,7 +6,7 @@
     "version": "3.9.0"
   },
   "dependencies": {
-    "d3": "^5.9.7",
+    "d3": "^7.6.1",
     "d3-cloud": "^1.2.5",
     "hexo": "^3.9.0",
     "hexo-asset-image": "git+https://github.com/CodeFalling/hexo-asset-image.git",
